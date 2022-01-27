@@ -4,7 +4,7 @@ languageCode = "zh-CN"
 title  =  "晨"
 subtitle = "不问明天，悠然浪费"
 
-theme  =  "hello-friend"
+theme  =  "blist"
 summaryLength = 140
 hasCJKLanguage = true
 # 每页显示的文章数量用于分页
